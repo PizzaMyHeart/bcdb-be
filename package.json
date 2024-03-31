@@ -1,0 +1,19 @@
+{
+  "name": "bcdb-be",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/postgres": "^5.2.2",
+    "fastify": "^4.26.2",
+    "fastify-plugin": "^4.5.1",
+    "pg": "^8.11.4"
+  }
+}
